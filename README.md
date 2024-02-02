@@ -1,2 +1,2 @@
 # react_projects
-All project i made while learning react
+All project I made while learning react
